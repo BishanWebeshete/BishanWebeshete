@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bishan Webeshete and I am a software developer. I enjoy the process of bringing my code to life, and witnessing friends and family make use of my apps. As the tech world is always changing, I am constantly looking for new technologies and methods to learn, as well as like minded individuals to collaborate with. Outside of coding, I love spending time surfing and playing hockey.
+My name is Bishan Webeshete and I am a software engineer. I enjoy the process of bringing my code to life, and witnessing friends and family make use of my apps. As the tech world is always changing, I am constantly looking for new technologies and methods to learn, as well as like minded individuals to collaborate with. Outside of coding, I love spending time surfing and playing hockey.
 ## Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

@@ -12,6 +12,7 @@ Feel free to check out my pinned projects!
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishanWebeshete&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 

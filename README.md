@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bishan Webeshete and I am a Software Developer. I enjoy the process of bringing my code to life, and watching friends and family make use of my apps. As the tech world continues to evolve, I am constantly looking for new technologies and methods to learn, as well as like minded people to collaborate with. Outside of coding, I love surfing and playing hockey.
+My name is Bishan Webeshete and I am a Software Engineer. I enjoy the process of bringing my code to life, and watching friends and family make use of my apps. As the tech world continues to evolve, I am constantly looking for new technologies and methods to learn, as well as like minded people to collaborate with. Outside of coding, I love surfing and playing hockey.
 
 Feel free to check out my pinned projects!
 ## Stack
